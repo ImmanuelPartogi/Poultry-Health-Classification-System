@@ -1,13 +1,10 @@
 <div align="center">
-  <img src="docs/assets/logo.png" alt="ChickenHealthAI Logo" width="180px" />
   <h1>ChickenHealthAI</h1>
   <p>Intelligent Chicken Health Detection System with Vision Transformer</p>
   <p>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/ViT-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="![Image](https://github.com/user-attachments/assets/34db2c96-4186-416e-85d8-af0c54e150fa)" />
+    <img src="![Image](https://github.com/user-attachments/assets/a5e399bb-75f9-496c-bfd3-5424d5734b84)" />
+    <img src="![Image](https://github.com/user-attachments/assets/1e104760-4b20-4abf-8ae0-356ba187d74f)" />
   </p>
   <p>
     <a href="#features">Features</a> •
